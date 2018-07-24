@@ -2,11 +2,11 @@
 An app that converts timestamps into XML chapters
 
 An input file should look like this:
-
+<pre>
 2:08 Introduction
 57:40 How its done
 1:46:02 Credits
-
+</pre>
 And a given output to that would look like this:
 
 <pre><code>
