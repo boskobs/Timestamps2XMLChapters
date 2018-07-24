@@ -7,7 +7,8 @@ An input file should look like this:
 57:40 How its done
 1:46:02 Credits
 </pre>
-And a given output to that would look like this:
+
+And the output to that would look like this:
 
 <pre><code>
 &lt;?xml version="1.0" encoding="ISO-8859-1"?&gt;
